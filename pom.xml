@@ -24,6 +24,6 @@
     
   </dependencies>
   <build>
-    <finalName>demo</finalName>
+    <finalName>ROOT</finalName>
   </build>
 </project>
